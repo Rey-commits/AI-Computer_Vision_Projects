@@ -11,4 +11,4 @@ token.env
 12_Military_Aircraft_Detection/Military_Aircraft_Dataset/splitted_dataset
 12_Military_Aircraft_Detection/Military_Aircraft_Dataset/yolov5_detections
 12_Military_Aircraft_Detection/list_generator
-13_Illegal_Vessels_Detection/dataset
+13_Illegal_Vessels_Detection
