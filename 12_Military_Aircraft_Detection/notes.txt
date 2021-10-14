@@ -1,0 +1,2 @@
+read this for yolov4 installation in google colab
+https://www.spritle.com/blogs/2019/12/20/how-to-train-your-tiny-yolov3-model-in-google-colab/
