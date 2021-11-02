@@ -3,4 +3,6 @@ Most of my AI projects uses deep transfer learning models and are focusing mostl
 
 This GitHub repository is under the BSD 3-Clause License
 
-Copyright (c) 2021, Reymond Mesuga, All rights reserved.
+Copyright (c) 2021, Reymond Mesuga
+
+Please respect the license of this repository.
