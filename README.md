@@ -8,4 +8,4 @@ Copyright (c) 2021, Reymond Mesuga
 Please respect the license of this repository.
 
 <strong>IEEE Style Citation:</strong> <br>
-`Reymond R. Mesuga, “AI_DeepLearning_MachineLearning_Projects” GitHub, Nov. 02, 2021. https://github.com/mesuga-reymond/EarlyDays_AI_Projects_by_Mesuga (accessed insert_date).`
+`Reymond R. Mesuga, “AI_DeepLearning_MachineLearning_Projects” GitHub, 2021. https://github.com/mesuga-reymond/EarlyDays_AI_Projects_by_Mesuga (accessed insert_date).`
